@@ -1,0 +1,1 @@
+"""Mastermind runtime tests."""
