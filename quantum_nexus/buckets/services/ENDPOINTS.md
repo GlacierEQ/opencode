@@ -2,36 +2,36 @@
 ## External Services Status
 
 ### Cloudflare
-- **Account:** [REDACTED]
-- **Token:** [REDACTED]
-- **R2:** [REDACTED]
+- **Account:** [REDACTED - see .vault_env]
+- **Token:** [REDACTED - see .vault_env]
+- **R2:** [REDACTED - see .vault_env]
 - **Status:** ✓ Active (TLS issue pending)
 
 ### Notion
-- **Token:** [REDACTED]
+- **Token:** [REDACTED - see .vault_env]
 - **Status:** ✓ Connected
 
 ### Supabase
-- **URL:** kjebmdgvjvuutzvhbtp.supabase.co
-- **Service Key:** eyJhbGci...sZXJ2aWNlX3JvbGUi
-- **Anon Key:** eyJhbGci...InR5cCI6IkpXVCJ9
+- **URL:** [REDACTED - see .vault_env]
+- **Service Key:** [REDACTED - see .vault_env]
+- **Anon Key:** [REDACTED - see .vault_env]
 - **Status:** ✓ Connected
 
 ### AssemblyAI
-- **Key:** 61738597490848ed9ef61cf58eb3b16c
+- **Key:** [REDACTED - see .vault_env]
 - **Status:** ✓ Active
 
 ### n8n
-- **Host:** glaciereq1.n8n-host.com
-- **User:** casey.barton92@gmail.com
-- **Pass:** c64fef9c
+- **Host:** [REDACTED - see .vault_env]
+- **User:** [REDACTED - see .vault_env]
+- **Pass:** [REDACTED - see .vault_env]
 - **Status:** ⚠️ Ready for setup
 
 ### Mimo
-- **Supabase:** sk-s79vp16d7ko98bcj0eddnue7bj8x5fd6qddyle5y5vzajj8m
-- **Direct:** sk-sup2etknw3r11waptqefaan9ltwdttgxq4qkekhmhp6e5p5v
+- **Supabase:** [REDACTED - see .vault_env]
+- **Direct:** [REDACTED - see .vault_env]
 - **Status:** ✓ Active
 
 ### Groq
-- **Key:** [REDACTED]
+- **Key:** [REDACTED - see .vault_env]
 - **Status:** ✓ Active

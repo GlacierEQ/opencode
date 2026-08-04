@@ -10,18 +10,18 @@
 | Supermemory | ✓ Active | sm_* | Hermes |
 
 ### Mem0 Configuration
-- **API Key:** m0-CkabsxFjhaYf28gYSET3JWE34k3vw6oRBP5ZUm5H
-- **Org ID:** org_Gsa76AGniLIDLWGIgbmljwb7GCdPoExd3ERGKVkm
-- **User ID:** OPR-NS8-GE8-KC3-001-AI-GRS-GUID:983DE8C8-E120-1-B5A0-C6D8AF97BB09
+- **API Key:** [REDACTED - see .vault_env]
+- **Org ID:** [REDACTED - see .vault_env]
+- **User ID:** [REDACTED - see .vault_env]
 
 ### MemoryPlugin
-- **Primary:** LFvblPuL3N8N8k2FLyGcsCkMSMSrHsG9
-- **Specialized:** yD4IKCdlI0VCXlfD4xLT1x5D0dEU9Hd1
-- **Global Bucket:** LFvblPuL3N8N8k2FLyGcsCkMSMSrHsG9
+- **Primary:** [REDACTED - see .vault_env]
+- **Specialized:** [REDACTED - see .vault_env]
+- **Global Bucket:** [REDACTED - see .vault_env]
 
 ### Pinecone
-- **Primary:** pcsk_69yXbV_ScG9tJBY7Qx1e2C9dcq
-- **HiGuy:** pcsk_2DjXch_JNueamvbAC937LNr1d
+- **Primary:** [REDACTED - see .vault_env]
+- **HiGuy:** [REDACTED - see .vault_env]
 
 ### Memory Operations
 ```python

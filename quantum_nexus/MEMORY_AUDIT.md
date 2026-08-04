@@ -7,25 +7,25 @@
 
 ### Mem0 (Primary Memory)
 - **Status:** ✅ ACTIVE
-- **API Key:** m0-CkabsxFjhaYf28gYSET3JWE34k3vw6oRBP5ZUm5H
-- **Org ID:** org_Gsa76AGniLIDLWGIgbmljwb7GCdPoExd3ERGKVkm
-- **User ID:** OPR-NS8-GE8-KC3-001-AI-GRS-GUID:983DE8C8-E120-1-B5A0-C6D8AF97BB09
+- **API Key:** [REDACTED - see .vault_env]
+- **Org ID:** [REDACTED - see .vault_env]
+- **User ID:** [REDACTED - see .vault_env]
 - **Methods:** add, search, get_all, update, delete
 
 ### MemoryPlugin
 - **Status:** ✅ ACTIVE
-- **Primary Bucket:** LFvblPuL3N8N8k2FLyGcsCkMSMSrHsG9
-- **Specialized Bucket:** yD4IKCdlI0VCXlfD4xLT1x5D0dEU9Hd1
-- **Global Bucket:** LFvblPuL3N8N8k2FLyGcsCkMSMSrHsG9
+- **Primary Bucket:** [REDACTED - see .vault_env]
+- **Specialized Bucket:** [REDACTED - see .vault_env]
+- **Global Bucket:** [REDACTED - see .vault_env]
 
 ### Pinecone (Vector DB)
 - **Status:** ✅ ACTIVE
-- **Primary Index:** pcsk_69yXbV_ScG9tJBY7Qx1e2C9dcqQtJJ6yqUGGtZyfbKsRgHrZ26kxszsdJTQnn6zc498eqH
-- **HiGuy Index:** pcsk_2DjXch_JNueamvbAC937LNr1dCrGwPAbhLYbd1E1k5zemVy5MNbiMsks8rJfAmu5rHWbhd
+- **Primary Index:** [REDACTED - see .vault_env]
+- **HiGuy Index:** [REDACTED - see .vault_env]
 
 ### Supermemory
 - **Status:** ✅ ACTIVE
-- **Key:** sm_eWxFPVM3zr6qepNiudZMnk_OnqIIVxwqXKeGoevncrGNtFtRhCcstBAFDzUVtGqeVnZACuprUsFJnjEyqCQZKCb
+- **Key:** [REDACTED - see .vault_env]
 
 ---
 

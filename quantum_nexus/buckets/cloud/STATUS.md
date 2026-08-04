@@ -19,8 +19,8 @@
 [cloudflare-r2]
 type = s3
 provider = Cloudflare
-access_key_id = 4741f2bab3a4eeda742f59e2577c3a82
-secret_access_key = f03a2d546f21339c41dd6ce7d33f20677560ce57d4f5005b83604285451c70b1
+access_key_id = [REDACTED - see .vault_env]
+secret_access_key = [REDACTED - see .vault_env]
 endpoint = https://<account-id>.r2.cloudflarestorage.com
 region = auto
 ```
