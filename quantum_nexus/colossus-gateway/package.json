@@ -1,7 +1,7 @@
 {
-  "name": "casebrain-connector-hub",
+  "name": "colossus-gateway",
   "version": "1.0.0",
-  "description": "CaseBrain Unified Connector Hub Server",
+  "description": "Colossus Gateway - Keymaster + Gatekeeper",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,6 +10,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "ws": "^8.16.0",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "@supabase/supabase-js": "^2.39.0"
   }
 }

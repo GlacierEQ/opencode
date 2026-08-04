@@ -1,7 +1,30 @@
-.vault_env
-*.key
-*.pem
-node_modules/
-__pycache__/
-*.pyc
+# Environment
 .env
+.env.*
+!.env.example
+
+# Secrets
+*.pem
+*.key
+*.enc
+vault.enc
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Temp
+tmp/
+temp/
