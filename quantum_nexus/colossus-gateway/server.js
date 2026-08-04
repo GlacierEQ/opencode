@@ -13,6 +13,7 @@ const path = require('path');
 
 const Keymaster = require('./keymaster');
 const Gatekeeper = require('./gatekeeper');
+const authRoutes = require('./routes/auth');
 
 const app = express();
 const server = http.createServer(app);
@@ -26,6 +27,9 @@ const gatekeeper = new Gatekeeper();
 app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
+
+// Auth routes
+app.use(authRoutes);
 
 // ==================== KEYMASTER ROUTES ====================
 
